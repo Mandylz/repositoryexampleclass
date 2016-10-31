@@ -2,3 +2,4 @@ Line 1
 Line 3
 line 4 i added it from the feature branch.
 line 5 i added it from master.
+line 5
